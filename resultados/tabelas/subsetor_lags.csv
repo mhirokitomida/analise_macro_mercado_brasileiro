@@ -1,0 +1,1121 @@
+﻿variavel,lag,correlacao,subsetor
+delta_selic,0,-0.006109301608604626,Agropecuária
+delta_selic,1,-0.03950162724360989,Agropecuária
+delta_selic,2,-0.003939715342919093,Agropecuária
+delta_selic,3,-0.011832582748482305,Agropecuária
+delta_selic,4,-0.09871087689059431,Agropecuária
+delta_selic,5,-0.0005281168184850097,Agropecuária
+delta_selic,6,-0.0571965044947912,Agropecuária
+delta_ipca,0,0.044425125585110935,Agropecuária
+delta_ipca,1,0.07254203906203495,Agropecuária
+delta_ipca,2,-0.004588923942745274,Agropecuária
+delta_ipca,3,-0.11644782130382796,Agropecuária
+delta_ipca,4,0.011307248103588399,Agropecuária
+delta_ipca,5,0.05079312897751382,Agropecuária
+delta_ipca,6,0.06403807155353307,Agropecuária
+var_dolar,0,-0.18388161661313696,Agropecuária
+var_dolar,1,0.14195147039744674,Agropecuária
+var_dolar,2,0.036361974188819264,Agropecuária
+var_dolar,3,0.09422605640625704,Agropecuária
+var_dolar,4,0.10282079794537088,Agropecuária
+var_dolar,5,-0.10759362158853167,Agropecuária
+var_dolar,6,-0.019463081041612096,Agropecuária
+ibc_var,0,0.1097391512992446,Agropecuária
+ibc_var,1,-0.028034154478671795,Agropecuária
+ibc_var,2,-0.0862031479211381,Agropecuária
+ibc_var,3,-0.019687972396125623,Agropecuária
+ibc_var,4,0.1389222706140498,Agropecuária
+ibc_var,5,0.0669560674347779,Agropecuária
+ibc_var,6,0.0546218017015649,Agropecuária
+delta_selic,0,-0.12383978599234972,Alimentos Processados
+delta_selic,1,-0.08341073417492513,Alimentos Processados
+delta_selic,2,-0.09519367260893481,Alimentos Processados
+delta_selic,3,-0.06668993781241928,Alimentos Processados
+delta_selic,4,-0.016591335501410415,Alimentos Processados
+delta_selic,5,-0.08542949660707327,Alimentos Processados
+delta_selic,6,-0.08307839955435871,Alimentos Processados
+delta_ipca,0,-0.1251141715855845,Alimentos Processados
+delta_ipca,1,0.019960113468234154,Alimentos Processados
+delta_ipca,2,0.05405335712857471,Alimentos Processados
+delta_ipca,3,-0.14224439286603285,Alimentos Processados
+delta_ipca,4,0.053296957421108494,Alimentos Processados
+delta_ipca,5,-0.05171798945578783,Alimentos Processados
+delta_ipca,6,0.14794463679190784,Alimentos Processados
+var_dolar,0,-0.2851690918187198,Alimentos Processados
+var_dolar,1,-0.05457889520929721,Alimentos Processados
+var_dolar,2,0.018498458465694704,Alimentos Processados
+var_dolar,3,0.08254502642480278,Alimentos Processados
+var_dolar,4,0.07428040257824944,Alimentos Processados
+var_dolar,5,0.08152449704738972,Alimentos Processados
+var_dolar,6,-0.04752322685553118,Alimentos Processados
+ibc_var,0,0.03947217586411882,Alimentos Processados
+ibc_var,1,-0.03960791673329922,Alimentos Processados
+ibc_var,2,-0.11122734259169408,Alimentos Processados
+ibc_var,3,-0.06285432612388214,Alimentos Processados
+ibc_var,4,0.0428933751428765,Alimentos Processados
+ibc_var,5,-0.019291531664021956,Alimentos Processados
+ibc_var,6,0.10210731321534355,Alimentos Processados
+delta_selic,0,-0.03833533551735304,Automóveis e Motocicletas
+delta_selic,1,-0.0018103367487291829,Automóveis e Motocicletas
+delta_selic,2,-0.0015528815503860701,Automóveis e Motocicletas
+delta_selic,3,-0.05614563023547907,Automóveis e Motocicletas
+delta_selic,4,-0.09328176469558878,Automóveis e Motocicletas
+delta_selic,5,-0.036469796380819305,Automóveis e Motocicletas
+delta_selic,6,-0.03614254214100853,Automóveis e Motocicletas
+delta_ipca,0,-0.07181025333334375,Automóveis e Motocicletas
+delta_ipca,1,-0.014415897899440694,Automóveis e Motocicletas
+delta_ipca,2,0.05324772366017214,Automóveis e Motocicletas
+delta_ipca,3,-0.12437160925874129,Automóveis e Motocicletas
+delta_ipca,4,-0.10831387897089206,Automóveis e Motocicletas
+delta_ipca,5,0.09017653452777855,Automóveis e Motocicletas
+delta_ipca,6,0.08458041708937307,Automóveis e Motocicletas
+var_dolar,0,-0.4119673062084517,Automóveis e Motocicletas
+var_dolar,1,-0.16675866136161235,Automóveis e Motocicletas
+var_dolar,2,0.07438353521722961,Automóveis e Motocicletas
+var_dolar,3,0.10307371371954531,Automóveis e Motocicletas
+var_dolar,4,-0.044893871418095525,Automóveis e Motocicletas
+var_dolar,5,-0.08021452054917462,Automóveis e Motocicletas
+var_dolar,6,-0.005731825424685395,Automóveis e Motocicletas
+ibc_var,0,0.06392537660302743,Automóveis e Motocicletas
+ibc_var,1,0.03386636628081308,Automóveis e Motocicletas
+ibc_var,2,-0.04059123826022523,Automóveis e Motocicletas
+ibc_var,3,0.0446379277225932,Automóveis e Motocicletas
+ibc_var,4,0.09095579559697473,Automóveis e Motocicletas
+ibc_var,5,-0.010830532116591783,Automóveis e Motocicletas
+ibc_var,6,0.030729362702651364,Automóveis e Motocicletas
+delta_selic,0,0.04825662918470777,Bebidas
+delta_selic,1,-0.026281690740120153,Bebidas
+delta_selic,2,0.07493840616296477,Bebidas
+delta_selic,3,-0.003941886455279289,Bebidas
+delta_selic,4,-0.05281665291216283,Bebidas
+delta_selic,5,0.007542022208602407,Bebidas
+delta_selic,6,-0.04647016807263989,Bebidas
+delta_ipca,0,0.03564297713375677,Bebidas
+delta_ipca,1,0.07737887845402032,Bebidas
+delta_ipca,2,-0.04272778899599461,Bebidas
+delta_ipca,3,-0.003327940457490659,Bebidas
+delta_ipca,4,-0.1366761005210383,Bebidas
+delta_ipca,5,0.13297148889771473,Bebidas
+delta_ipca,6,0.023197740139855906,Bebidas
+var_dolar,0,-0.2715363142757257,Bebidas
+var_dolar,1,-0.0674519426156627,Bebidas
+var_dolar,2,0.20741389424123693,Bebidas
+var_dolar,3,0.05602997431786178,Bebidas
+var_dolar,4,0.14391796615838404,Bebidas
+var_dolar,5,-0.1972686284032714,Bebidas
+var_dolar,6,-0.26693640818430847,Bebidas
+ibc_var,0,0.199876138231736,Bebidas
+ibc_var,1,0.06802503415621616,Bebidas
+ibc_var,2,-0.20697858996612728,Bebidas
+ibc_var,3,0.020197474359575376,Bebidas
+ibc_var,4,0.07910926205860865,Bebidas
+ibc_var,5,0.06989178924073812,Bebidas
+ibc_var,6,0.019998078185228276,Bebidas
+delta_selic,0,-0.06872639362819682,Computadores e Equipamentos
+delta_selic,1,-0.07729536546944545,Computadores e Equipamentos
+delta_selic,2,-0.024327041845239133,Computadores e Equipamentos
+delta_selic,3,-0.09157087348224806,Computadores e Equipamentos
+delta_selic,4,-0.05410165844494836,Computadores e Equipamentos
+delta_selic,5,-0.03605900632014763,Computadores e Equipamentos
+delta_selic,6,-0.06974401394965617,Computadores e Equipamentos
+delta_ipca,0,0.034164178888435724,Computadores e Equipamentos
+delta_ipca,1,-0.01876838913928357,Computadores e Equipamentos
+delta_ipca,2,-0.003431921490099827,Computadores e Equipamentos
+delta_ipca,3,-0.19615331857748572,Computadores e Equipamentos
+delta_ipca,4,-0.010660642611294152,Computadores e Equipamentos
+delta_ipca,5,-0.015528795553904151,Computadores e Equipamentos
+delta_ipca,6,0.12132382852467738,Computadores e Equipamentos
+var_dolar,0,-0.32735495525048375,Computadores e Equipamentos
+var_dolar,1,0.02854795360464846,Computadores e Equipamentos
+var_dolar,2,0.05630301742017375,Computadores e Equipamentos
+var_dolar,3,0.09206055690328135,Computadores e Equipamentos
+var_dolar,4,-0.07467846604616377,Computadores e Equipamentos
+var_dolar,5,-0.16105362170672013,Computadores e Equipamentos
+var_dolar,6,-0.1647545573490057,Computadores e Equipamentos
+ibc_var,0,0.025761594597951104,Computadores e Equipamentos
+ibc_var,1,0.0069978689802535745,Computadores e Equipamentos
+ibc_var,2,-0.09602951906711432,Computadores e Equipamentos
+ibc_var,3,-0.023723192734870793,Computadores e Equipamentos
+ibc_var,4,0.0024218697418469243,Computadores e Equipamentos
+ibc_var,5,0.00010033167576775221,Computadores e Equipamentos
+ibc_var,6,0.07085820009067094,Computadores e Equipamentos
+delta_selic,0,-0.17175010374107147,Comércio Varejista
+delta_selic,1,-0.14650891841292202,Comércio Varejista
+delta_selic,2,-0.12576258883739277,Comércio Varejista
+delta_selic,3,-0.1306713274139178,Comércio Varejista
+delta_selic,4,-0.16833505118809003,Comércio Varejista
+delta_selic,5,-0.12779528390082046,Comércio Varejista
+delta_selic,6,-0.1579933402574806,Comércio Varejista
+delta_ipca,0,-0.09660676170335548,Comércio Varejista
+delta_ipca,1,0.01771728317404851,Comércio Varejista
+delta_ipca,2,0.020017852164071263,Comércio Varejista
+delta_ipca,3,-0.1614150304434417,Comércio Varejista
+delta_ipca,4,0.005398143217591843,Comércio Varejista
+delta_ipca,5,0.03366578972198181,Comércio Varejista
+delta_ipca,6,0.15521474835498003,Comércio Varejista
+var_dolar,0,-0.4886296439099385,Comércio Varejista
+var_dolar,1,-0.04705647205600772,Comércio Varejista
+var_dolar,2,0.09465000332205792,Comércio Varejista
+var_dolar,3,0.14357166421348957,Comércio Varejista
+var_dolar,4,0.0546900366595168,Comércio Varejista
+var_dolar,5,0.046212881702136985,Comércio Varejista
+var_dolar,6,-0.18117468887853574,Comércio Varejista
+ibc_var,0,0.147883092849583,Comércio Varejista
+ibc_var,1,-0.03451143880808465,Comércio Varejista
+ibc_var,2,-0.08491119748551643,Comércio Varejista
+ibc_var,3,-0.011645488988205494,Comércio Varejista
+ibc_var,4,0.026401365373258,Comércio Varejista
+ibc_var,5,-0.006520906143401044,Comércio Varejista
+ibc_var,6,0.03707646077273789,Comércio Varejista
+delta_selic,0,-0.14537617900868136,Comércio e Distribuição
+delta_selic,1,-0.12331474649422298,Comércio e Distribuição
+delta_selic,2,-0.07129789448840196,Comércio e Distribuição
+delta_selic,3,-0.07226211832104415,Comércio e Distribuição
+delta_selic,4,-0.0782934623539501,Comércio e Distribuição
+delta_selic,5,0.008886354489422784,Comércio e Distribuição
+delta_selic,6,-0.08364447728299891,Comércio e Distribuição
+delta_ipca,0,-0.03529354571173023,Comércio e Distribuição
+delta_ipca,1,-0.0773939699012185,Comércio e Distribuição
+delta_ipca,2,-0.0014080055299927692,Comércio e Distribuição
+delta_ipca,3,-0.0791104700511609,Comércio e Distribuição
+delta_ipca,4,-0.011514825527857746,Comércio e Distribuição
+delta_ipca,5,0.043468095482459924,Comércio e Distribuição
+delta_ipca,6,-0.0028702305168471992,Comércio e Distribuição
+var_dolar,0,-0.4219867827240891,Comércio e Distribuição
+var_dolar,1,-0.02843650282595304,Comércio e Distribuição
+var_dolar,2,0.10648437633847696,Comércio e Distribuição
+var_dolar,3,0.003500670780502291,Comércio e Distribuição
+var_dolar,4,0.06990273468459142,Comércio e Distribuição
+var_dolar,5,-0.068089205148397,Comércio e Distribuição
+var_dolar,6,-0.09802636431912888,Comércio e Distribuição
+ibc_var,0,0.07334465663183018,Comércio e Distribuição
+ibc_var,1,0.0009509540463449439,Comércio e Distribuição
+ibc_var,2,-0.13582726912621562,Comércio e Distribuição
+ibc_var,3,-0.05622554822429977,Comércio e Distribuição
+ibc_var,4,0.04043121693546549,Comércio e Distribuição
+ibc_var,5,0.07535598309745124,Comércio e Distribuição
+ibc_var,6,0.008045935730775758,Comércio e Distribuição
+delta_selic,0,-0.12147652835555775,Construção Civil
+delta_selic,1,-0.07526817687854773,Construção Civil
+delta_selic,2,-0.03980971365517516,Construção Civil
+delta_selic,3,-0.06443563774714221,Construção Civil
+delta_selic,4,-0.052214715143843994,Construção Civil
+delta_selic,5,-0.02363634692684173,Construção Civil
+delta_selic,6,-0.08255255736435597,Construção Civil
+delta_ipca,0,-0.058582152524595456,Construção Civil
+delta_ipca,1,0.028036061773267482,Construção Civil
+delta_ipca,2,-0.030195831782966066,Construção Civil
+delta_ipca,3,-0.0855873155143899,Construção Civil
+delta_ipca,4,-0.001790623185293729,Construção Civil
+delta_ipca,5,-0.04422107956655821,Construção Civil
+delta_ipca,6,0.15598690982366273,Construção Civil
+var_dolar,0,-0.4841301628308435,Construção Civil
+var_dolar,1,0.0007144514586245167,Construção Civil
+var_dolar,2,0.13886810641316624,Construção Civil
+var_dolar,3,0.14506407223907447,Construção Civil
+var_dolar,4,0.053864777180929614,Construção Civil
+var_dolar,5,-0.004530245592332142,Construção Civil
+var_dolar,6,-0.13033761888446949,Construção Civil
+ibc_var,0,0.1978173189891918,Construção Civil
+ibc_var,1,0.012944371876440883,Construção Civil
+ibc_var,2,-0.11715887611853536,Construção Civil
+ibc_var,3,-0.10066599518051864,Construção Civil
+ibc_var,4,0.10102239892537881,Construção Civil
+ibc_var,5,0.005478506258815607,Construção Civil
+ibc_var,6,0.02891416918913171,Construção Civil
+delta_selic,0,-0.04280737975236229,Construção e Engenharia
+delta_selic,1,-0.044315629792686655,Construção e Engenharia
+delta_selic,2,-0.06833616727308471,Construção e Engenharia
+delta_selic,3,-0.05471609220101766,Construção e Engenharia
+delta_selic,4,-0.06721992549261864,Construção e Engenharia
+delta_selic,5,-0.008806617320546517,Construção e Engenharia
+delta_selic,6,-0.05119394670578958,Construção e Engenharia
+delta_ipca,0,-0.020879290061411145,Construção e Engenharia
+delta_ipca,1,0.0700379320517909,Construção e Engenharia
+delta_ipca,2,-0.025545050299974545,Construção e Engenharia
+delta_ipca,3,-0.15970494185808742,Construção e Engenharia
+delta_ipca,4,0.10541933324176249,Construção e Engenharia
+delta_ipca,5,-0.02896602327204512,Construção e Engenharia
+delta_ipca,6,0.10025736595297044,Construção e Engenharia
+var_dolar,0,-0.37959924996753497,Construção e Engenharia
+var_dolar,1,-0.011143756678958141,Construção e Engenharia
+var_dolar,2,0.11878857754714063,Construção e Engenharia
+var_dolar,3,0.09334217999639037,Construção e Engenharia
+var_dolar,4,0.04483335116469443,Construção e Engenharia
+var_dolar,5,0.008835556437436321,Construção e Engenharia
+var_dolar,6,-0.09152869087616453,Construção e Engenharia
+ibc_var,0,0.1847022155214798,Construção e Engenharia
+ibc_var,1,-0.06917753923844364,Construção e Engenharia
+ibc_var,2,-0.07558540997333685,Construção e Engenharia
+ibc_var,3,-0.04837266740771046,Construção e Engenharia
+ibc_var,4,0.10251604053231193,Construção e Engenharia
+ibc_var,5,-0.043600374843378704,Construção e Engenharia
+ibc_var,6,-0.010298140484306769,Construção e Engenharia
+delta_selic,0,-0.11160731652889025,Diversos
+delta_selic,1,-0.09785275911859645,Diversos
+delta_selic,2,-0.06385639905589692,Diversos
+delta_selic,3,-0.056814050182451316,Diversos
+delta_selic,4,-0.0719280699977253,Diversos
+delta_selic,5,-0.03367473845462873,Diversos
+delta_selic,6,-0.08293542825841844,Diversos
+delta_ipca,0,-0.07100454633855437,Diversos
+delta_ipca,1,0.00390703625617473,Diversos
+delta_ipca,2,-0.01165366503030473,Diversos
+delta_ipca,3,-0.08457367284577949,Diversos
+delta_ipca,4,-0.01630798732208523,Diversos
+delta_ipca,5,-0.052417366894690794,Diversos
+delta_ipca,6,0.0686825411927392,Diversos
+var_dolar,0,-0.3853797272199444,Diversos
+var_dolar,1,-0.0771994708277594,Diversos
+var_dolar,2,0.02170635488042622,Diversos
+var_dolar,3,0.06491803096164332,Diversos
+var_dolar,4,0.0593842095188486,Diversos
+var_dolar,5,0.006443178902915964,Diversos
+var_dolar,6,-0.12950746071760727,Diversos
+ibc_var,0,0.1399091043677583,Diversos
+ibc_var,1,0.016002989531083943,Diversos
+ibc_var,2,-0.012614784441365661,Diversos
+ibc_var,3,-0.029710852462092752,Diversos
+ibc_var,4,-0.030409519948144413,Diversos
+ibc_var,5,-0.0066548439429091185,Diversos
+ibc_var,6,-0.008360896325419939,Diversos
+delta_selic,0,0.024647477374852615,Embalagens
+delta_selic,1,0.033034394502871385,Embalagens
+delta_selic,2,0.002410608614851292,Embalagens
+delta_selic,3,-0.01631227019124568,Embalagens
+delta_selic,4,-0.058878797357093206,Embalagens
+delta_selic,5,-0.03261978081429344,Embalagens
+delta_selic,6,-0.06330776849914009,Embalagens
+delta_ipca,0,0.02885412908769303,Embalagens
+delta_ipca,1,-0.01303680508679599,Embalagens
+delta_ipca,2,0.0657142266075141,Embalagens
+delta_ipca,3,-0.15904051971577657,Embalagens
+delta_ipca,4,0.13316611445929352,Embalagens
+delta_ipca,5,-0.06907412537981052,Embalagens
+delta_ipca,6,0.14900668384085372,Embalagens
+var_dolar,0,-0.33611459172275765,Embalagens
+var_dolar,1,0.012424990070041863,Embalagens
+var_dolar,2,-0.07754872710317154,Embalagens
+var_dolar,3,0.031030848969381214,Embalagens
+var_dolar,4,0.12681708299021496,Embalagens
+var_dolar,5,-0.11892720850374573,Embalagens
+var_dolar,6,-0.09749659226659062,Embalagens
+ibc_var,0,0.16803734061900047,Embalagens
+ibc_var,1,-0.014090484930739392,Embalagens
+ibc_var,2,0.06890664596813204,Embalagens
+ibc_var,3,-0.04563560879777641,Embalagens
+ibc_var,4,0.0648905508240537,Embalagens
+ibc_var,5,0.028909649529011698,Embalagens
+ibc_var,6,0.1654831384964841,Embalagens
+delta_selic,0,-0.06719783985227605,Energia Elétrica
+delta_selic,1,-0.05197041525776178,Energia Elétrica
+delta_selic,2,0.00011730305048704447,Energia Elétrica
+delta_selic,3,-0.001187539580534064,Energia Elétrica
+delta_selic,4,0.016017744979859493,Energia Elétrica
+delta_selic,5,0.04340540672107762,Energia Elétrica
+delta_selic,6,-0.0045436092609238,Energia Elétrica
+delta_ipca,0,-0.05810563095715522,Energia Elétrica
+delta_ipca,1,-0.029036221498989188,Energia Elétrica
+delta_ipca,2,0.09645416679834695,Energia Elétrica
+delta_ipca,3,-0.09061436483063666,Energia Elétrica
+delta_ipca,4,-0.05477352133454545,Energia Elétrica
+delta_ipca,5,0.036754163808397425,Energia Elétrica
+delta_ipca,6,0.12367444459883017,Energia Elétrica
+var_dolar,0,-0.46749725917878304,Energia Elétrica
+var_dolar,1,-0.02809860205038173,Energia Elétrica
+var_dolar,2,0.08267213474656711,Energia Elétrica
+var_dolar,3,0.03344411679391056,Energia Elétrica
+var_dolar,4,-0.0015880558018767552,Energia Elétrica
+var_dolar,5,-0.04842922372104772,Energia Elétrica
+var_dolar,6,-0.11673573018574858,Energia Elétrica
+ibc_var,0,0.1700431816366218,Energia Elétrica
+ibc_var,1,-0.01669578828239719,Energia Elétrica
+ibc_var,2,-0.08019806393018536,Energia Elétrica
+ibc_var,3,-0.05321667090319639,Energia Elétrica
+ibc_var,4,0.10000478137408639,Energia Elétrica
+ibc_var,5,-0.009908292881878037,Energia Elétrica
+ibc_var,6,0.003740175366325243,Energia Elétrica
+delta_selic,0,-0.014812971849304931,Equipamentos
+delta_selic,1,-0.06876264111769374,Equipamentos
+delta_selic,2,-0.08337272947510034,Equipamentos
+delta_selic,3,-0.06772920118571944,Equipamentos
+delta_selic,4,-0.008145535799068756,Equipamentos
+delta_selic,5,-0.00981800865582945,Equipamentos
+delta_selic,6,-0.024184470087430403,Equipamentos
+delta_ipca,0,-0.047484241470774874,Equipamentos
+delta_ipca,1,0.013821464830454674,Equipamentos
+delta_ipca,2,0.17166747896697634,Equipamentos
+delta_ipca,3,-0.05954838848518939,Equipamentos
+delta_ipca,4,-0.14395681187982165,Equipamentos
+delta_ipca,5,0.017556903588884894,Equipamentos
+delta_ipca,6,-0.09274912699584253,Equipamentos
+var_dolar,0,-0.14327231894311568,Equipamentos
+var_dolar,1,-0.17615532913313975,Equipamentos
+var_dolar,2,0.06899766712066974,Equipamentos
+var_dolar,3,0.10978532224738115,Equipamentos
+var_dolar,4,0.04826759764933136,Equipamentos
+var_dolar,5,0.09043861502732391,Equipamentos
+var_dolar,6,0.044670236635124184,Equipamentos
+ibc_var,0,0.18638905614211324,Equipamentos
+ibc_var,1,0.08554740601573474,Equipamentos
+ibc_var,2,0.0009811916804220431,Equipamentos
+ibc_var,3,-0.023925350436604473,Equipamentos
+ibc_var,4,-0.014800796535097792,Equipamentos
+ibc_var,5,-0.010967951459058335,Equipamentos
+ibc_var,6,-0.09847068698520094,Equipamentos
+delta_selic,0,-0.1434483342289526,Exploração de Imóveis
+delta_selic,1,-0.11575865893059178,Exploração de Imóveis
+delta_selic,2,-0.06826328554106048,Exploração de Imóveis
+delta_selic,3,-0.09371237659895902,Exploração de Imóveis
+delta_selic,4,-0.101971431546222,Exploração de Imóveis
+delta_selic,5,-0.08604691305636396,Exploração de Imóveis
+delta_selic,6,-0.14004854930610883,Exploração de Imóveis
+delta_ipca,0,0.005385880897151483,Exploração de Imóveis
+delta_ipca,1,-0.015768507051915445,Exploração de Imóveis
+delta_ipca,2,0.04939049227739275,Exploração de Imóveis
+delta_ipca,3,-0.16102361632068793,Exploração de Imóveis
+delta_ipca,4,0.01763153686358317,Exploração de Imóveis
+delta_ipca,5,0.005513970278896624,Exploração de Imóveis
+delta_ipca,6,0.2112837890982788,Exploração de Imóveis
+var_dolar,0,-0.4963853945664455,Exploração de Imóveis
+var_dolar,1,-0.12214466218777846,Exploração de Imóveis
+var_dolar,2,-0.002927313980436338,Exploração de Imóveis
+var_dolar,3,0.18959850976212198,Exploração de Imóveis
+var_dolar,4,0.0665463619529485,Exploração de Imóveis
+var_dolar,5,-0.03382794797478896,Exploração de Imóveis
+var_dolar,6,-0.06578891299245035,Exploração de Imóveis
+ibc_var,0,0.20491280606669632,Exploração de Imóveis
+ibc_var,1,0.06307261933061273,Exploração de Imóveis
+ibc_var,2,-0.0038236044481979674,Exploração de Imóveis
+ibc_var,3,-0.025972922142260983,Exploração de Imóveis
+ibc_var,4,0.03894584295722716,Exploração de Imóveis
+ibc_var,5,0.02969489559070483,Exploração de Imóveis
+ibc_var,6,0.0694438625578862,Exploração de Imóveis
+delta_selic,0,-0.04266179117096526,Gás
+delta_selic,1,-0.041588476489341,Gás
+delta_selic,2,-0.04519041244369147,Gás
+delta_selic,3,-0.044319877154530736,Gás
+delta_selic,4,0.02168975218196495,Gás
+delta_selic,5,-0.022068788033386116,Gás
+delta_selic,6,-0.01342743781005591,Gás
+delta_ipca,0,0.012778620156557561,Gás
+delta_ipca,1,-0.02863777220036808,Gás
+delta_ipca,2,0.17503750109349683,Gás
+delta_ipca,3,-0.05343122929893141,Gás
+delta_ipca,4,-0.013081777887831512,Gás
+delta_ipca,5,-0.048721120517266715,Gás
+delta_ipca,6,-0.061410455484973404,Gás
+var_dolar,0,-0.11990258967672228,Gás
+var_dolar,1,0.06967057119967666,Gás
+var_dolar,2,0.02580802863764268,Gás
+var_dolar,3,0.05227190200238019,Gás
+var_dolar,4,-0.004372135585417052,Gás
+var_dolar,5,0.041798993381428166,Gás
+var_dolar,6,0.06158637965520424,Gás
+ibc_var,0,0.18554886342247892,Gás
+ibc_var,1,0.0324144854067123,Gás
+ibc_var,2,-0.07756340139893415,Gás
+ibc_var,3,0.05942628490226228,Gás
+ibc_var,4,0.07760126817487853,Gás
+ibc_var,5,0.009117202327261204,Gás
+ibc_var,6,0.047090488044769306,Gás
+delta_selic,0,-0.029944803586619866,Holdings Diversificadas
+delta_selic,1,-0.0271280890428233,Holdings Diversificadas
+delta_selic,2,0.019469898999031628,Holdings Diversificadas
+delta_selic,3,-0.037319956393751574,Holdings Diversificadas
+delta_selic,4,-0.06188730246792652,Holdings Diversificadas
+delta_selic,5,-0.03604718959845554,Holdings Diversificadas
+delta_selic,6,-0.12137637625801778,Holdings Diversificadas
+delta_ipca,0,0.035532517695658135,Holdings Diversificadas
+delta_ipca,1,-0.10529035529757892,Holdings Diversificadas
+delta_ipca,2,0.10080887798083903,Holdings Diversificadas
+delta_ipca,3,-0.13635416576535894,Holdings Diversificadas
+delta_ipca,4,-0.010629233043064786,Holdings Diversificadas
+delta_ipca,5,0.01379961327747269,Holdings Diversificadas
+delta_ipca,6,0.05607214690790286,Holdings Diversificadas
+var_dolar,0,-0.34781009727668505,Holdings Diversificadas
+var_dolar,1,-0.11772536800660077,Holdings Diversificadas
+var_dolar,2,0.08024665933389868,Holdings Diversificadas
+var_dolar,3,0.16115780037680577,Holdings Diversificadas
+var_dolar,4,0.16636800987385272,Holdings Diversificadas
+var_dolar,5,0.027018341771494297,Holdings Diversificadas
+var_dolar,6,-0.13715749008642997,Holdings Diversificadas
+ibc_var,0,0.15388334694110048,Holdings Diversificadas
+ibc_var,1,0.13906535875378961,Holdings Diversificadas
+ibc_var,2,-0.02763973423301385,Holdings Diversificadas
+ibc_var,3,-0.07524428456792398,Holdings Diversificadas
+ibc_var,4,-0.018319809476953258,Holdings Diversificadas
+ibc_var,5,0.059821286463012255,Holdings Diversificadas
+ibc_var,6,0.047791869123892584,Holdings Diversificadas
+delta_selic,0,-0.11306287248089746,Hoteis e Restaurantes
+delta_selic,1,-0.019698405765830013,Hoteis e Restaurantes
+delta_selic,2,-0.06946848093112508,Hoteis e Restaurantes
+delta_selic,3,0.025790917525089226,Hoteis e Restaurantes
+delta_selic,4,-0.05101206251576284,Hoteis e Restaurantes
+delta_selic,5,-0.03828029234310376,Hoteis e Restaurantes
+delta_selic,6,-0.059372230160190706,Hoteis e Restaurantes
+delta_ipca,0,-0.025999340285941384,Hoteis e Restaurantes
+delta_ipca,1,0.034930966892680486,Hoteis e Restaurantes
+delta_ipca,2,-0.010686435977911852,Hoteis e Restaurantes
+delta_ipca,3,-0.0850094829635844,Hoteis e Restaurantes
+delta_ipca,4,-0.056211303400614865,Hoteis e Restaurantes
+delta_ipca,5,-0.012333990476113294,Hoteis e Restaurantes
+delta_ipca,6,0.14012203516247923,Hoteis e Restaurantes
+var_dolar,0,-0.3125560604569076,Hoteis e Restaurantes
+var_dolar,1,-0.06435371230425732,Hoteis e Restaurantes
+var_dolar,2,0.028854636956318753,Hoteis e Restaurantes
+var_dolar,3,0.10593871146329907,Hoteis e Restaurantes
+var_dolar,4,0.03923322409382257,Hoteis e Restaurantes
+var_dolar,5,-0.02756548972924584,Hoteis e Restaurantes
+var_dolar,6,-0.04832649761541033,Hoteis e Restaurantes
+ibc_var,0,0.13649745434413596,Hoteis e Restaurantes
+ibc_var,1,-0.05897085986550826,Hoteis e Restaurantes
+ibc_var,2,-0.08719450323340794,Hoteis e Restaurantes
+ibc_var,3,-0.06650350947662668,Hoteis e Restaurantes
+ibc_var,4,0.08990168154458066,Hoteis e Restaurantes
+ibc_var,5,0.02398005431534628,Hoteis e Restaurantes
+ibc_var,6,0.05814223904169511,Hoteis e Restaurantes
+delta_selic,0,-0.1317616742669825,Intermediários Financeiros
+delta_selic,1,-0.0998536829553173,Intermediários Financeiros
+delta_selic,2,-0.048617081321749,Intermediários Financeiros
+delta_selic,3,-0.036775536483813105,Intermediários Financeiros
+delta_selic,4,-0.0730770229161268,Intermediários Financeiros
+delta_selic,5,-0.046782568763278104,Intermediários Financeiros
+delta_selic,6,-0.06521939477475511,Intermediários Financeiros
+delta_ipca,0,-0.018590821120964156,Intermediários Financeiros
+delta_ipca,1,0.038304729746216556,Intermediários Financeiros
+delta_ipca,2,-0.0058535915671518455,Intermediários Financeiros
+delta_ipca,3,-0.11581424536122709,Intermediários Financeiros
+delta_ipca,4,-0.054411806569561974,Intermediários Financeiros
+delta_ipca,5,-0.0018431201449487255,Intermediários Financeiros
+delta_ipca,6,0.10329549746494056,Intermediários Financeiros
+var_dolar,0,-0.5277340804925033,Intermediários Financeiros
+var_dolar,1,-0.10374098994087357,Intermediários Financeiros
+var_dolar,2,0.13089424610627914,Intermediários Financeiros
+var_dolar,3,0.12518389843966998,Intermediários Financeiros
+var_dolar,4,0.06106132386185197,Intermediários Financeiros
+var_dolar,5,-0.05429991084083821,Intermediários Financeiros
+var_dolar,6,-0.14833529619397426,Intermediários Financeiros
+ibc_var,0,0.2213205371828151,Intermediários Financeiros
+ibc_var,1,0.028730786735084807,Intermediários Financeiros
+ibc_var,2,-0.16425833663779776,Intermediários Financeiros
+ibc_var,3,-0.07938625378374378,Intermediários Financeiros
+ibc_var,4,0.02896336917379273,Intermediários Financeiros
+ibc_var,5,0.043424157039071036,Intermediários Financeiros
+ibc_var,6,0.0764001276593463,Intermediários Financeiros
+delta_selic,0,-0.1470700181224991,Madeira e Papel
+delta_selic,1,-0.1634884999721625,Madeira e Papel
+delta_selic,2,-0.19406212383701382,Madeira e Papel
+delta_selic,3,-0.19287188278362472,Madeira e Papel
+delta_selic,4,-0.2439759292411299,Madeira e Papel
+delta_selic,5,-0.17640748349333066,Madeira e Papel
+delta_selic,6,-0.21580054312230815,Madeira e Papel
+delta_ipca,0,-0.018110714390473397,Madeira e Papel
+delta_ipca,1,0.09369503091902137,Madeira e Papel
+delta_ipca,2,0.06446460612563405,Madeira e Papel
+delta_ipca,3,-0.11663457464655133,Madeira e Papel
+delta_ipca,4,0.038128117722745526,Madeira e Papel
+delta_ipca,5,-0.0381711316784157,Madeira e Papel
+delta_ipca,6,0.009721176262069095,Madeira e Papel
+var_dolar,0,-0.18166429194329406,Madeira e Papel
+var_dolar,1,0.00038765548036114294,Madeira e Papel
+var_dolar,2,0.031097432186936946,Madeira e Papel
+var_dolar,3,0.14362005868366734,Madeira e Papel
+var_dolar,4,0.09946936672736847,Madeira e Papel
+var_dolar,5,0.12703510571269364,Madeira e Papel
+var_dolar,6,-0.04934243024861418,Madeira e Papel
+ibc_var,0,0.11497901646382555,Madeira e Papel
+ibc_var,1,0.0019253553245326682,Madeira e Papel
+ibc_var,2,-0.003304804411393646,Madeira e Papel
+ibc_var,3,0.02739273128418687,Madeira e Papel
+ibc_var,4,-0.019235627211015845,Madeira e Papel
+ibc_var,5,-0.07438434238683111,Madeira e Papel
+ibc_var,6,-0.015525180217715694,Madeira e Papel
+delta_selic,0,-0.1060647187321578,Materiais Diversos
+delta_selic,1,-0.12212482489318385,Materiais Diversos
+delta_selic,2,-0.1309438571475322,Materiais Diversos
+delta_selic,3,-0.09581818722470217,Materiais Diversos
+delta_selic,4,-0.021369665356938586,Materiais Diversos
+delta_selic,5,-0.031990332619313055,Materiais Diversos
+delta_selic,6,-0.06852533332896875,Materiais Diversos
+delta_ipca,0,0.08747792870255024,Materiais Diversos
+delta_ipca,1,-0.010435711202558911,Materiais Diversos
+delta_ipca,2,0.005472341788530585,Materiais Diversos
+delta_ipca,3,-0.13075570209666232,Materiais Diversos
+delta_ipca,4,-0.05176811918515323,Materiais Diversos
+delta_ipca,5,-0.026381862303887067,Materiais Diversos
+delta_ipca,6,-0.11659994656570521,Materiais Diversos
+var_dolar,0,-0.2423934405079158,Materiais Diversos
+var_dolar,1,-0.04953422701212656,Materiais Diversos
+var_dolar,2,-0.0043158447375241,Materiais Diversos
+var_dolar,3,0.023102795790067323,Materiais Diversos
+var_dolar,4,0.08374149282556695,Materiais Diversos
+var_dolar,5,-0.018485922173919547,Materiais Diversos
+var_dolar,6,-0.1427284920074166,Materiais Diversos
+ibc_var,0,0.14665817603936862,Materiais Diversos
+ibc_var,1,0.1755426589686645,Materiais Diversos
+ibc_var,2,-0.054853183395714857,Materiais Diversos
+ibc_var,3,-0.1579306175742094,Materiais Diversos
+ibc_var,4,-0.19023844950446925,Materiais Diversos
+ibc_var,5,-0.1126652141894503,Materiais Diversos
+ibc_var,6,0.007048683328752684,Materiais Diversos
+delta_selic,0,-0.10482727046529484,Material de Transporte
+delta_selic,1,-0.06786264618479615,Material de Transporte
+delta_selic,2,-0.0833520385756432,Material de Transporte
+delta_selic,3,-0.1138928681559242,Material de Transporte
+delta_selic,4,-0.13175185039473328,Material de Transporte
+delta_selic,5,-0.13018670740240496,Material de Transporte
+delta_selic,6,-0.14357591718858911,Material de Transporte
+delta_ipca,0,0.06100820975199934,Material de Transporte
+delta_ipca,1,-0.01931837647925301,Material de Transporte
+delta_ipca,2,0.1666323870995969,Material de Transporte
+delta_ipca,3,-0.17986606761617252,Material de Transporte
+delta_ipca,4,-0.016739747376559314,Material de Transporte
+delta_ipca,5,-0.03427907652184111,Material de Transporte
+delta_ipca,6,0.08859124119322412,Material de Transporte
+var_dolar,0,-0.3005393979618419,Material de Transporte
+var_dolar,1,-0.09431596118697078,Material de Transporte
+var_dolar,2,0.15638627365964453,Material de Transporte
+var_dolar,3,0.12324962168914974,Material de Transporte
+var_dolar,4,0.03737496021776767,Material de Transporte
+var_dolar,5,-0.07909897990135585,Material de Transporte
+var_dolar,6,0.007081459210532864,Material de Transporte
+ibc_var,0,0.20647522905718516,Material de Transporte
+ibc_var,1,0.09318735442779681,Material de Transporte
+ibc_var,2,-0.006687195961594995,Material de Transporte
+ibc_var,3,-0.08840609444763116,Material de Transporte
+ibc_var,4,0.06668453005891378,Material de Transporte
+ibc_var,5,0.030410717041898887,Material de Transporte
+ibc_var,6,-0.03814275339430062,Material de Transporte
+delta_selic,0,-0.16227687906702423,Medicamentos e Outros Produtos
+delta_selic,1,-0.06628776420630633,Medicamentos e Outros Produtos
+delta_selic,2,-0.1460707601721386,Medicamentos e Outros Produtos
+delta_selic,3,-0.15021362872729527,Medicamentos e Outros Produtos
+delta_selic,4,-0.1129158010058856,Medicamentos e Outros Produtos
+delta_selic,5,-0.1514677727115898,Medicamentos e Outros Produtos
+delta_selic,6,-0.14183249008733195,Medicamentos e Outros Produtos
+delta_ipca,0,-0.011796185682769987,Medicamentos e Outros Produtos
+delta_ipca,1,-0.05795741691587197,Medicamentos e Outros Produtos
+delta_ipca,2,0.07137220636431003,Medicamentos e Outros Produtos
+delta_ipca,3,0.010983543404924566,Medicamentos e Outros Produtos
+delta_ipca,4,-0.0709761495932773,Medicamentos e Outros Produtos
+delta_ipca,5,0.01632333099116486,Medicamentos e Outros Produtos
+delta_ipca,6,0.06153231700134954,Medicamentos e Outros Produtos
+var_dolar,0,-0.14954721288983375,Medicamentos e Outros Produtos
+var_dolar,1,-0.017495020386350882,Medicamentos e Outros Produtos
+var_dolar,2,0.2037197361821805,Medicamentos e Outros Produtos
+var_dolar,3,0.12466668516143105,Medicamentos e Outros Produtos
+var_dolar,4,-0.008081347319913201,Medicamentos e Outros Produtos
+var_dolar,5,-0.009849731522309176,Medicamentos e Outros Produtos
+var_dolar,6,0.07511779425363921,Medicamentos e Outros Produtos
+ibc_var,0,0.13115505055899832,Medicamentos e Outros Produtos
+ibc_var,1,-0.07895775794759852,Medicamentos e Outros Produtos
+ibc_var,2,-0.11315859759274897,Medicamentos e Outros Produtos
+ibc_var,3,0.04520026202644974,Medicamentos e Outros Produtos
+ibc_var,4,0.010800530225661728,Medicamentos e Outros Produtos
+ibc_var,5,0.018572027125965482,Medicamentos e Outros Produtos
+ibc_var,6,-0.07176315411603619,Medicamentos e Outros Produtos
+delta_selic,0,-0.058467205065739644,Mineração
+delta_selic,1,-0.03213931684003871,Mineração
+delta_selic,2,-0.025943860702414983,Mineração
+delta_selic,3,-0.040447847432225376,Mineração
+delta_selic,4,-0.11513936789319275,Mineração
+delta_selic,5,-0.10672253250706305,Mineração
+delta_selic,6,-0.08477309852091526,Mineração
+delta_ipca,0,0.058975173106205,Mineração
+delta_ipca,1,0.00634087344151469,Mineração
+delta_ipca,2,-0.024079823608280895,Mineração
+delta_ipca,3,0.07266682460658298,Mineração
+delta_ipca,4,-0.011633782417190942,Mineração
+delta_ipca,5,0.0666220841135106,Mineração
+delta_ipca,6,-0.046801912063196144,Mineração
+var_dolar,0,-0.2035266291298377,Mineração
+var_dolar,1,0.03558466268861315,Mineração
+var_dolar,2,0.15834753359839696,Mineração
+var_dolar,3,0.01728914122136718,Mineração
+var_dolar,4,-0.08106414718958962,Mineração
+var_dolar,5,-0.02389359172141234,Mineração
+var_dolar,6,0.13136249338686296,Mineração
+ibc_var,0,0.05826667398394675,Mineração
+ibc_var,1,0.022930582235269188,Mineração
+ibc_var,2,-0.0011068695221965658,Mineração
+ibc_var,3,0.02810711949104978,Mineração
+ibc_var,4,0.17847442738100128,Mineração
+ibc_var,5,0.16157935525227984,Mineração
+ibc_var,6,-0.13874634832976313,Mineração
+delta_selic,0,-0.1694850850413513,Máquinas e Equipamentos
+delta_selic,1,-0.1756239400591567,Máquinas e Equipamentos
+delta_selic,2,-0.16305654266084912,Máquinas e Equipamentos
+delta_selic,3,-0.1882309485821526,Máquinas e Equipamentos
+delta_selic,4,-0.187783309841251,Máquinas e Equipamentos
+delta_selic,5,-0.12800731755066264,Máquinas e Equipamentos
+delta_selic,6,-0.21923283199771657,Máquinas e Equipamentos
+delta_ipca,0,-0.08392085676739236,Máquinas e Equipamentos
+delta_ipca,1,0.01733770560940271,Máquinas e Equipamentos
+delta_ipca,2,0.08326880102053591,Máquinas e Equipamentos
+delta_ipca,3,-0.10598492149964,Máquinas e Equipamentos
+delta_ipca,4,-0.03289374218971228,Máquinas e Equipamentos
+delta_ipca,5,0.007967416047093338,Máquinas e Equipamentos
+delta_ipca,6,0.06018409789322761,Máquinas e Equipamentos
+var_dolar,0,-0.4096659002115957,Máquinas e Equipamentos
+var_dolar,1,-0.07749928147256,Máquinas e Equipamentos
+var_dolar,2,0.15492324213718603,Máquinas e Equipamentos
+var_dolar,3,0.14320607059297497,Máquinas e Equipamentos
+var_dolar,4,0.07948298231356689,Máquinas e Equipamentos
+var_dolar,5,-0.07902954389720113,Máquinas e Equipamentos
+var_dolar,6,-0.06104458216486581,Máquinas e Equipamentos
+ibc_var,0,0.23827536064572202,Máquinas e Equipamentos
+ibc_var,1,0.03010462860340173,Máquinas e Equipamentos
+ibc_var,2,-0.05948113638818496,Máquinas e Equipamentos
+ibc_var,3,-0.04869356831283685,Máquinas e Equipamentos
+ibc_var,4,0.0414718102776754,Máquinas e Equipamentos
+ibc_var,5,0.03385300050840475,Máquinas e Equipamentos
+ibc_var,6,0.042923078359057634,Máquinas e Equipamentos
+delta_selic,0,-0.07337554314354998,Outros
+delta_selic,1,-0.026547943836185275,Outros
+delta_selic,2,0.02424536310027667,Outros
+delta_selic,3,0.01277732438637573,Outros
+delta_selic,4,-0.03097438849810926,Outros
+delta_selic,5,0.009075526651645729,Outros
+delta_selic,6,-0.008968655730921326,Outros
+delta_ipca,0,-0.006612039096544949,Outros
+delta_ipca,1,0.04316871152018969,Outros
+delta_ipca,2,-0.03010491163218597,Outros
+delta_ipca,3,-0.1551765988154662,Outros
+delta_ipca,4,-0.021446225322871264,Outros
+delta_ipca,5,0.08128966503912613,Outros
+delta_ipca,6,0.06383112822250113,Outros
+var_dolar,0,-0.07377141597946361,Outros
+var_dolar,1,0.013321725582260085,Outros
+var_dolar,2,-0.01389610080575176,Outros
+var_dolar,3,0.10028801953583004,Outros
+var_dolar,4,0.0356020892737229,Outros
+var_dolar,5,0.08646353443389657,Outros
+var_dolar,6,0.018743132269918174,Outros
+ibc_var,0,0.04067486320346048,Outros
+ibc_var,1,-0.03903415709486092,Outros
+ibc_var,2,-0.11756551696057432,Outros
+ibc_var,3,-0.026653909612616312,Outros
+ibc_var,4,0.012985849880837274,Outros
+ibc_var,5,0.002250997111644951,Outros
+ibc_var,6,0.028879258501506303,Outros
+delta_selic,0,-0.10323363282900559,"Petróleo, Gás e Biocombustíveis"
+delta_selic,1,-0.07394302432590973,"Petróleo, Gás e Biocombustíveis"
+delta_selic,2,-0.05968686031182797,"Petróleo, Gás e Biocombustíveis"
+delta_selic,3,-0.04314142538780388,"Petróleo, Gás e Biocombustíveis"
+delta_selic,4,-0.07132642033073944,"Petróleo, Gás e Biocombustíveis"
+delta_selic,5,-0.042888762397120035,"Petróleo, Gás e Biocombustíveis"
+delta_selic,6,-0.03903518702142764,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,0,-0.04769482753557627,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,1,0.026354542889622502,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,2,0.013306698869582788,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,3,-0.061517684093740865,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,4,-0.04061624143091049,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,5,0.07123727063114248,"Petróleo, Gás e Biocombustíveis"
+delta_ipca,6,0.05973697744687114,"Petróleo, Gás e Biocombustíveis"
+var_dolar,0,-0.4631746556604583,"Petróleo, Gás e Biocombustíveis"
+var_dolar,1,-0.04134198308319494,"Petróleo, Gás e Biocombustíveis"
+var_dolar,2,0.12466737647048995,"Petróleo, Gás e Biocombustíveis"
+var_dolar,3,0.03766709215154901,"Petróleo, Gás e Biocombustíveis"
+var_dolar,4,-0.059062387452481394,"Petróleo, Gás e Biocombustíveis"
+var_dolar,5,-0.0741371786103226,"Petróleo, Gás e Biocombustíveis"
+var_dolar,6,-0.04450845287564596,"Petróleo, Gás e Biocombustíveis"
+ibc_var,0,0.0633634685581837,"Petróleo, Gás e Biocombustíveis"
+ibc_var,1,-0.03149178389498987,"Petróleo, Gás e Biocombustíveis"
+ibc_var,2,-0.06082711860920106,"Petróleo, Gás e Biocombustíveis"
+ibc_var,3,-0.02630476873804477,"Petróleo, Gás e Biocombustíveis"
+ibc_var,4,0.07290169273760488,"Petróleo, Gás e Biocombustíveis"
+ibc_var,5,0.09373971670495919,"Petróleo, Gás e Biocombustíveis"
+ibc_var,6,0.09114668098441957,"Petróleo, Gás e Biocombustíveis"
+delta_selic,0,-0.04542219151861119,Previdência e Seguros
+delta_selic,1,-0.08599729796796488,Previdência e Seguros
+delta_selic,2,-0.03648191301003899,Previdência e Seguros
+delta_selic,3,-0.014238957507971814,Previdência e Seguros
+delta_selic,4,-0.115034353078717,Previdência e Seguros
+delta_selic,5,-0.006045314951799718,Previdência e Seguros
+delta_selic,6,-0.10110279885139947,Previdência e Seguros
+delta_ipca,0,-0.036384166201427315,Previdência e Seguros
+delta_ipca,1,0.0027810173488945753,Previdência e Seguros
+delta_ipca,2,0.08790265634217082,Previdência e Seguros
+delta_ipca,3,-0.054168804684986194,Previdência e Seguros
+delta_ipca,4,-0.08764945287557063,Previdência e Seguros
+delta_ipca,5,-0.019138845285792506,Previdência e Seguros
+delta_ipca,6,0.09798133726404809,Previdência e Seguros
+var_dolar,0,-0.3941232363085832,Previdência e Seguros
+var_dolar,1,-0.043092102949488495,Previdência e Seguros
+var_dolar,2,0.09423905221624011,Previdência e Seguros
+var_dolar,3,0.10679601125163747,Previdência e Seguros
+var_dolar,4,0.007300531446056313,Previdência e Seguros
+var_dolar,5,-0.005158747819488154,Previdência e Seguros
+var_dolar,6,-0.11328811457499563,Previdência e Seguros
+ibc_var,0,0.19498169338362636,Previdência e Seguros
+ibc_var,1,-0.0487509061952925,Previdência e Seguros
+ibc_var,2,-0.07258888472131408,Previdência e Seguros
+ibc_var,3,-0.027971845721047727,Previdência e Seguros
+ibc_var,4,0.02993049429091134,Previdência e Seguros
+ibc_var,5,0.007903800482885626,Previdência e Seguros
+ibc_var,6,0.09114809366083819,Previdência e Seguros
+delta_selic,0,-0.24734260829896249,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,1,-0.24498679294787618,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,2,-0.24257008761614643,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,3,-0.24696786830949277,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,4,-0.19010979516281443,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,5,-0.17501443029531774,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,6,-0.24726676475846257,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,0,-0.05348565822909899,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,1,0.05099091001778901,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,2,-0.03663914208429987,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,3,-0.05214747043579025,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,4,0.008010366928428344,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,5,0.029992240252565715,Produtos de Cuidado Pessoal e de Limpeza
+delta_ipca,6,-0.006966112923661235,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,0,-0.38144282378382016,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,1,-0.035421372418900116,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,2,0.12457333651844232,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,3,0.03964719809034653,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,4,0.01523595436641131,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,5,0.11348868472116758,Produtos de Cuidado Pessoal e de Limpeza
+var_dolar,6,-0.09157090793993829,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,0,0.05872967597306293,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,1,-0.01206969883142064,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,2,-0.08065280940694615,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,3,-0.01110780540277305,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,4,0.027684186889461997,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,5,-0.02937842000017958,Produtos de Cuidado Pessoal e de Limpeza
+ibc_var,6,0.005750327743488691,Produtos de Cuidado Pessoal e de Limpeza
+delta_selic,0,-0.22205649350593468,Programas e Serviços
+delta_selic,1,-0.17815173463028866,Programas e Serviços
+delta_selic,2,-0.18057837491624573,Programas e Serviços
+delta_selic,3,-0.13209569090162476,Programas e Serviços
+delta_selic,4,-0.15959730262206656,Programas e Serviços
+delta_selic,5,-0.1327645413412387,Programas e Serviços
+delta_selic,6,-0.1916532458382546,Programas e Serviços
+delta_ipca,0,-0.05304683031289374,Programas e Serviços
+delta_ipca,1,0.04504769428651119,Programas e Serviços
+delta_ipca,2,0.10955524120185213,Programas e Serviços
+delta_ipca,3,-0.20527407940764994,Programas e Serviços
+delta_ipca,4,-0.009001657717835301,Programas e Serviços
+delta_ipca,5,0.07165001355451113,Programas e Serviços
+delta_ipca,6,0.0346252816911663,Programas e Serviços
+var_dolar,0,-0.25960671843714506,Programas e Serviços
+var_dolar,1,-0.06633802753065911,Programas e Serviços
+var_dolar,2,0.08765769672770225,Programas e Serviços
+var_dolar,3,0.2412745153833689,Programas e Serviços
+var_dolar,4,0.20610452868234308,Programas e Serviços
+var_dolar,5,0.061010455411820715,Programas e Serviços
+var_dolar,6,-0.15746418094678186,Programas e Serviços
+ibc_var,0,0.09337736533643627,Programas e Serviços
+ibc_var,1,-0.019017761644476442,Programas e Serviços
+ibc_var,2,-0.03460803313086059,Programas e Serviços
+ibc_var,3,-0.06154241077415391,Programas e Serviços
+ibc_var,4,-0.03811990031461817,Programas e Serviços
+ibc_var,5,-0.029186398319629586,Programas e Serviços
+ibc_var,6,-0.011694178204434125,Programas e Serviços
+delta_selic,0,-0.07658174049814362,Químicos
+delta_selic,1,-0.14293060078066036,Químicos
+delta_selic,2,-0.1132744464349746,Químicos
+delta_selic,3,-0.1477946915374453,Químicos
+delta_selic,4,-0.1709936216694091,Químicos
+delta_selic,5,-0.10922276603195635,Químicos
+delta_selic,6,-0.17874651689104862,Químicos
+delta_ipca,0,-0.05154045066263618,Químicos
+delta_ipca,1,0.032952144071569885,Químicos
+delta_ipca,2,0.03186375983238237,Químicos
+delta_ipca,3,-0.07443142339931434,Químicos
+delta_ipca,4,-0.10699028822903248,Químicos
+delta_ipca,5,0.08582192170413568,Químicos
+delta_ipca,6,-0.002023618006041077,Químicos
+var_dolar,0,-0.2633907896911285,Químicos
+var_dolar,1,0.010813058410726823,Químicos
+var_dolar,2,0.03442417269442748,Químicos
+var_dolar,3,0.03316042233352724,Químicos
+var_dolar,4,0.06152050675384858,Químicos
+var_dolar,5,-0.05642326323042517,Químicos
+var_dolar,6,-0.19240685554253406,Químicos
+ibc_var,0,0.07166968286990005,Químicos
+ibc_var,1,-0.016634232988309315,Químicos
+ibc_var,2,0.013908811830942771,Químicos
+ibc_var,3,0.06936183943901245,Químicos
+ibc_var,4,-0.08291787760131168,Químicos
+ibc_var,5,-0.08951203105038416,Químicos
+ibc_var,6,0.048453060884090765,Químicos
+delta_selic,0,-0.1429855783396327,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,1,-0.10735622792083309,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,2,-0.06176077108246343,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,3,-0.09970930995341173,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,4,-0.08372099919835836,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,5,-0.02044005731282595,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,6,-0.12456616439830938,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,0,-0.015380766372305262,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,1,0.011374039510318752,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,2,-0.06570455639630214,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,3,-0.009340862784250665,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,4,-0.06599804874182703,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,5,0.03477686323333917,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_ipca,6,-0.00658390889155077,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,0,-0.31405666069444255,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,1,-0.10850830356976295,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,2,0.0264885165431614,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,3,0.07630757026192468,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,4,0.09863098772713162,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,5,-0.015882197110962615,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+var_dolar,6,-0.0803132355018805,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,0,0.06463644315248325,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,1,0.02639419598617135,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,2,-0.09554901454075855,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,3,0.034648655242922495,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,4,-0.03306440667572723,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,5,-0.028276609609133856,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+ibc_var,6,0.00875514602562847,"Serv.Méd.Hospit.,Análises e Diagnósticos"
+delta_selic,0,-0.00832830307001195,Serviços
+delta_selic,1,-0.05044318635490122,Serviços
+delta_selic,2,-0.00039330232219559404,Serviços
+delta_selic,3,-0.02385692634484504,Serviços
+delta_selic,4,-0.09612388840645937,Serviços
+delta_selic,5,-0.0036648042557902824,Serviços
+delta_selic,6,-0.05188936766894646,Serviços
+delta_ipca,0,-0.12571745152930222,Serviços
+delta_ipca,1,0.012668665054918557,Serviços
+delta_ipca,2,0.033226438198226176,Serviços
+delta_ipca,3,-0.0625807602614546,Serviços
+delta_ipca,4,0.027896254112946668,Serviços
+delta_ipca,5,-0.04189702824141399,Serviços
+delta_ipca,6,0.07251653490661501,Serviços
+var_dolar,0,-0.2611059607892926,Serviços
+var_dolar,1,-0.08186157876494864,Serviços
+var_dolar,2,0.04984413554651473,Serviços
+var_dolar,3,0.0011514088502898691,Serviços
+var_dolar,4,0.04396168693813716,Serviços
+var_dolar,5,-0.040351012017458936,Serviços
+var_dolar,6,-0.12956651613197562,Serviços
+ibc_var,0,0.042128159799540967,Serviços
+ibc_var,1,0.01868193249444663,Serviços
+ibc_var,2,-0.05534324420000161,Serviços
+ibc_var,3,-0.011933255512634118,Serviços
+ibc_var,4,0.09952261111579888,Serviços
+ibc_var,5,0.04981952076456801,Serviços
+ibc_var,6,0.012228488816851242,Serviços
+delta_selic,0,-0.19154016540973137,Serviços Financeiros Diversos
+delta_selic,1,-0.12468381455894828,Serviços Financeiros Diversos
+delta_selic,2,-0.08328483659540523,Serviços Financeiros Diversos
+delta_selic,3,-0.08831943733392353,Serviços Financeiros Diversos
+delta_selic,4,-0.03837162498214176,Serviços Financeiros Diversos
+delta_selic,5,-0.027860607584371727,Serviços Financeiros Diversos
+delta_selic,6,-0.040837454563469,Serviços Financeiros Diversos
+delta_ipca,0,0.01066250628588707,Serviços Financeiros Diversos
+delta_ipca,1,-0.09563318917105366,Serviços Financeiros Diversos
+delta_ipca,2,0.033185712079705394,Serviços Financeiros Diversos
+delta_ipca,3,-0.19757535985080937,Serviços Financeiros Diversos
+delta_ipca,4,0.049739025131154906,Serviços Financeiros Diversos
+delta_ipca,5,-0.0434107259885674,Serviços Financeiros Diversos
+delta_ipca,6,0.1159211420860113,Serviços Financeiros Diversos
+var_dolar,0,-0.38344283591063666,Serviços Financeiros Diversos
+var_dolar,1,0.016620552495413794,Serviços Financeiros Diversos
+var_dolar,2,0.1387542594355195,Serviços Financeiros Diversos
+var_dolar,3,0.1107522249508971,Serviços Financeiros Diversos
+var_dolar,4,0.050125036924491585,Serviços Financeiros Diversos
+var_dolar,5,-0.04500076641721863,Serviços Financeiros Diversos
+var_dolar,6,-0.1258729615257941,Serviços Financeiros Diversos
+ibc_var,0,0.1580259552653695,Serviços Financeiros Diversos
+ibc_var,1,-0.0670333590951435,Serviços Financeiros Diversos
+ibc_var,2,-0.09467789674798432,Serviços Financeiros Diversos
+ibc_var,3,-0.10790257857668725,Serviços Financeiros Diversos
+ibc_var,4,-0.0652309742258314,Serviços Financeiros Diversos
+ibc_var,5,-0.004503059278803618,Serviços Financeiros Diversos
+ibc_var,6,0.06872492396456759,Serviços Financeiros Diversos
+delta_selic,0,-0.06455612868696572,Siderurgia e Metalurgia
+delta_selic,1,-0.05834992887415621,Siderurgia e Metalurgia
+delta_selic,2,-0.05291439545802138,Siderurgia e Metalurgia
+delta_selic,3,-0.057564452761605954,Siderurgia e Metalurgia
+delta_selic,4,-0.12302381241859606,Siderurgia e Metalurgia
+delta_selic,5,-0.07659651085367872,Siderurgia e Metalurgia
+delta_selic,6,-0.1042423148136803,Siderurgia e Metalurgia
+delta_ipca,0,-0.06990384723130583,Siderurgia e Metalurgia
+delta_ipca,1,0.016763882111078376,Siderurgia e Metalurgia
+delta_ipca,2,0.1056540713932245,Siderurgia e Metalurgia
+delta_ipca,3,-0.07392668904807005,Siderurgia e Metalurgia
+delta_ipca,4,-0.08032871624361528,Siderurgia e Metalurgia
+delta_ipca,5,0.09724681144866963,Siderurgia e Metalurgia
+delta_ipca,6,0.01725646736318935,Siderurgia e Metalurgia
+var_dolar,0,-0.4022719187130831,Siderurgia e Metalurgia
+var_dolar,1,-0.02829756524815808,Siderurgia e Metalurgia
+var_dolar,2,0.13782152449105298,Siderurgia e Metalurgia
+var_dolar,3,0.016276374639577113,Siderurgia e Metalurgia
+var_dolar,4,0.007976722663271766,Siderurgia e Metalurgia
+var_dolar,5,-0.07079610097731576,Siderurgia e Metalurgia
+var_dolar,6,-0.001347267678382985,Siderurgia e Metalurgia
+ibc_var,0,0.1505381775320708,Siderurgia e Metalurgia
+ibc_var,1,-0.04645202183524619,Siderurgia e Metalurgia
+ibc_var,2,-0.06105357840998562,Siderurgia e Metalurgia
+ibc_var,3,-0.007371865060540412,Siderurgia e Metalurgia
+ibc_var,4,0.031123527830687565,Siderurgia e Metalurgia
+ibc_var,5,0.003704156978962988,Siderurgia e Metalurgia
+ibc_var,6,0.09406665035132838,Siderurgia e Metalurgia
+delta_selic,0,-0.09236010373144446,"Tecidos, Vestuário e Calçados"
+delta_selic,1,-0.05452507609934353,"Tecidos, Vestuário e Calçados"
+delta_selic,2,-0.05088688703392789,"Tecidos, Vestuário e Calçados"
+delta_selic,3,-0.02826003691996426,"Tecidos, Vestuário e Calçados"
+delta_selic,4,-0.06310798078099274,"Tecidos, Vestuário e Calçados"
+delta_selic,5,-0.10341319962650712,"Tecidos, Vestuário e Calçados"
+delta_selic,6,-0.0992550106641874,"Tecidos, Vestuário e Calçados"
+delta_ipca,0,0.006483568525268261,"Tecidos, Vestuário e Calçados"
+delta_ipca,1,-0.020792442789945687,"Tecidos, Vestuário e Calçados"
+delta_ipca,2,-0.031448286066228,"Tecidos, Vestuário e Calçados"
+delta_ipca,3,-0.06580330450191353,"Tecidos, Vestuário e Calçados"
+delta_ipca,4,-0.06329643722547355,"Tecidos, Vestuário e Calçados"
+delta_ipca,5,-0.038079118059942914,"Tecidos, Vestuário e Calçados"
+delta_ipca,6,0.15031248757936438,"Tecidos, Vestuário e Calçados"
+var_dolar,0,-0.48987599293647943,"Tecidos, Vestuário e Calçados"
+var_dolar,1,-0.04391255628977301,"Tecidos, Vestuário e Calçados"
+var_dolar,2,0.08423037304826402,"Tecidos, Vestuário e Calçados"
+var_dolar,3,0.08250860838321411,"Tecidos, Vestuário e Calçados"
+var_dolar,4,0.027874824823323704,"Tecidos, Vestuário e Calçados"
+var_dolar,5,-0.09922461631861508,"Tecidos, Vestuário e Calçados"
+var_dolar,6,-0.0747169362966966,"Tecidos, Vestuário e Calçados"
+ibc_var,0,0.21588133633431572,"Tecidos, Vestuário e Calçados"
+ibc_var,1,0.032499955543273035,"Tecidos, Vestuário e Calçados"
+ibc_var,2,-0.10845924042987046,"Tecidos, Vestuário e Calçados"
+ibc_var,3,-0.08177032023575555,"Tecidos, Vestuário e Calçados"
+ibc_var,4,0.08844052400508216,"Tecidos, Vestuário e Calçados"
+ibc_var,5,-0.0003064682293253914,"Tecidos, Vestuário e Calçados"
+ibc_var,6,0.03462214701096196,"Tecidos, Vestuário e Calçados"
+delta_selic,0,-0.2545532817238578,Telecomunicações
+delta_selic,1,-0.12930971429533272,Telecomunicações
+delta_selic,2,-0.11049572895071198,Telecomunicações
+delta_selic,3,-0.12985962103195978,Telecomunicações
+delta_selic,4,-0.07212091046068086,Telecomunicações
+delta_selic,5,-0.03610654913704972,Telecomunicações
+delta_selic,6,-0.1373339342883666,Telecomunicações
+delta_ipca,0,0.06742379194005481,Telecomunicações
+delta_ipca,1,-0.007096555937016837,Telecomunicações
+delta_ipca,2,-0.03135297666748093,Telecomunicações
+delta_ipca,3,-0.12460448600311208,Telecomunicações
+delta_ipca,4,-0.045407887080936,Telecomunicações
+delta_ipca,5,-0.03257613500641921,Telecomunicações
+delta_ipca,6,0.04984544651206637,Telecomunicações
+var_dolar,0,-0.22151286087816768,Telecomunicações
+var_dolar,1,-0.04010441147479174,Telecomunicações
+var_dolar,2,0.13084838295631698,Telecomunicações
+var_dolar,3,0.027928995371152107,Telecomunicações
+var_dolar,4,0.05211801009941011,Telecomunicações
+var_dolar,5,-0.11041789066202688,Telecomunicações
+var_dolar,6,-0.1270743858176989,Telecomunicações
+ibc_var,0,0.0612924314974738,Telecomunicações
+ibc_var,1,-0.0037117661571081,Telecomunicações
+ibc_var,2,-0.07832716120328205,Telecomunicações
+ibc_var,3,-0.22918293376462923,Telecomunicações
+ibc_var,4,-0.019912022447139292,Telecomunicações
+ibc_var,5,0.01102369570082651,Telecomunicações
+ibc_var,6,0.09097400585700541,Telecomunicações
+delta_selic,0,-0.15621551366983757,Transporte
+delta_selic,1,-0.14577914577764414,Transporte
+delta_selic,2,-0.10408141391386953,Transporte
+delta_selic,3,-0.0816602881492797,Transporte
+delta_selic,4,-0.09837946083191063,Transporte
+delta_selic,5,-0.052936255838537526,Transporte
+delta_selic,6,-0.09365344836083007,Transporte
+delta_ipca,0,-0.049660675635406264,Transporte
+delta_ipca,1,0.005409234676041099,Transporte
+delta_ipca,2,0.07709431833931371,Transporte
+delta_ipca,3,-0.19843515287344385,Transporte
+delta_ipca,4,-0.0386481522039388,Transporte
+delta_ipca,5,0.06475140309747326,Transporte
+delta_ipca,6,0.08521667662398581,Transporte
+var_dolar,0,-0.5454831113967281,Transporte
+var_dolar,1,-0.11186027761741174,Transporte
+var_dolar,2,0.12827848996253832,Transporte
+var_dolar,3,0.17342471388136796,Transporte
+var_dolar,4,0.00938902313751997,Transporte
+var_dolar,5,-0.009235949738677406,Transporte
+var_dolar,6,-0.0969173424274946,Transporte
+ibc_var,0,0.22124453583000592,Transporte
+ibc_var,1,0.04843560479168965,Transporte
+ibc_var,2,-0.050328434418889935,Transporte
+ibc_var,3,-0.02572245876318283,Transporte
+ibc_var,4,0.005066358083678686,Transporte
+ibc_var,5,0.004145539166077429,Transporte
+ibc_var,6,0.09191901513632782,Transporte
+delta_selic,0,-0.16246225559855082,Utilidades Domésticas
+delta_selic,1,-0.18675013311570604,Utilidades Domésticas
+delta_selic,2,-0.15784217408521697,Utilidades Domésticas
+delta_selic,3,-0.09753790686658617,Utilidades Domésticas
+delta_selic,4,-0.17808103569128225,Utilidades Domésticas
+delta_selic,5,-0.10894019142887566,Utilidades Domésticas
+delta_selic,6,-0.17928100457430388,Utilidades Domésticas
+delta_ipca,0,0.027387721142205685,Utilidades Domésticas
+delta_ipca,1,-0.03435914336006493,Utilidades Domésticas
+delta_ipca,2,0.06745854081267674,Utilidades Domésticas
+delta_ipca,3,-0.13586897470736964,Utilidades Domésticas
+delta_ipca,4,0.04933291670023393,Utilidades Domésticas
+delta_ipca,5,-0.00892595565813737,Utilidades Domésticas
+delta_ipca,6,0.03966245873099578,Utilidades Domésticas
+var_dolar,0,-0.3171431297302554,Utilidades Domésticas
+var_dolar,1,-0.10690408197796894,Utilidades Domésticas
+var_dolar,2,-0.03822730706232854,Utilidades Domésticas
+var_dolar,3,0.12769569745974,Utilidades Domésticas
+var_dolar,4,0.03214709574971836,Utilidades Domésticas
+var_dolar,5,0.03012450512292845,Utilidades Domésticas
+var_dolar,6,-0.107091539233819,Utilidades Domésticas
+ibc_var,0,0.18757494566092073,Utilidades Domésticas
+ibc_var,1,-0.024843843813413577,Utilidades Domésticas
+ibc_var,2,-0.0325737859586022,Utilidades Domésticas
+ibc_var,3,-0.11478176056000579,Utilidades Domésticas
+ibc_var,4,0.034335104611103194,Utilidades Domésticas
+ibc_var,5,0.0385253366861498,Utilidades Domésticas
+ibc_var,6,0.02248515435339861,Utilidades Domésticas
+delta_selic,0,-0.045426690321091596,Viagens e Lazer
+delta_selic,1,-0.0407506741675307,Viagens e Lazer
+delta_selic,2,-0.03123397956390534,Viagens e Lazer
+delta_selic,3,0.010624934877474268,Viagens e Lazer
+delta_selic,4,-0.07303579485274624,Viagens e Lazer
+delta_selic,5,-0.04660738597645283,Viagens e Lazer
+delta_selic,6,-0.08582124935565905,Viagens e Lazer
+delta_ipca,0,0.01677046639136597,Viagens e Lazer
+delta_ipca,1,-0.08889311986336187,Viagens e Lazer
+delta_ipca,2,0.06596076596243115,Viagens e Lazer
+delta_ipca,3,-0.15999800393735694,Viagens e Lazer
+delta_ipca,4,0.03535673464227429,Viagens e Lazer
+delta_ipca,5,0.021608164766242163,Viagens e Lazer
+delta_ipca,6,0.13016542994741076,Viagens e Lazer
+var_dolar,0,-0.4395681315527052,Viagens e Lazer
+var_dolar,1,-0.052741376158113515,Viagens e Lazer
+var_dolar,2,0.09032916439828409,Viagens e Lazer
+var_dolar,3,0.12926115521924378,Viagens e Lazer
+var_dolar,4,0.05041098012512433,Viagens e Lazer
+var_dolar,5,-0.017323710819059233,Viagens e Lazer
+var_dolar,6,-0.1075100543354315,Viagens e Lazer
+ibc_var,0,0.19066866891333067,Viagens e Lazer
+ibc_var,1,-0.004864927473438086,Viagens e Lazer
+ibc_var,2,-0.1249643890956531,Viagens e Lazer
+ibc_var,3,-0.11326792019739627,Viagens e Lazer
+ibc_var,4,0.044064652215052076,Viagens e Lazer
+ibc_var,5,0.007954786772199499,Viagens e Lazer
+ibc_var,6,-0.0013458517783932625,Viagens e Lazer
+delta_selic,0,-0.08517319286421335,Água e Saneamento
+delta_selic,1,-0.06719908340145658,Água e Saneamento
+delta_selic,2,-0.009184255210715172,Água e Saneamento
+delta_selic,3,-0.00936148650025324,Água e Saneamento
+delta_selic,4,-0.01081521110959258,Água e Saneamento
+delta_selic,5,-0.03235058991226377,Água e Saneamento
+delta_selic,6,-0.06682589739108824,Água e Saneamento
+delta_ipca,0,0.004759536180251157,Água e Saneamento
+delta_ipca,1,-0.030613205675531826,Água e Saneamento
+delta_ipca,2,0.023373713233439695,Água e Saneamento
+delta_ipca,3,-0.139621639510374,Água e Saneamento
+delta_ipca,4,-0.009661693093131956,Água e Saneamento
+delta_ipca,5,-0.06538103956372468,Água e Saneamento
+delta_ipca,6,0.14604185102751904,Água e Saneamento
+var_dolar,0,-0.267784918898579,Água e Saneamento
+var_dolar,1,0.025154728521844277,Água e Saneamento
+var_dolar,2,0.08019172775402074,Água e Saneamento
+var_dolar,3,0.01719765507545435,Água e Saneamento
+var_dolar,4,0.11335973531209866,Água e Saneamento
+var_dolar,5,0.03681998955147882,Água e Saneamento
+var_dolar,6,-0.10773766194807326,Água e Saneamento
+ibc_var,0,0.10456514773071122,Água e Saneamento
+ibc_var,1,-0.075256732175591,Água e Saneamento
+ibc_var,2,-0.1153217522551316,Água e Saneamento
+ibc_var,3,0.03560657404559896,Água e Saneamento
+ibc_var,4,0.03887682139807445,Água e Saneamento
+ibc_var,5,-0.026176861919425476,Água e Saneamento
+ibc_var,6,0.004481476140029534,Água e Saneamento

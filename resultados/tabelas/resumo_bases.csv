@@ -1,0 +1,14 @@
+﻿base,linhas,colunas
+df_macro,276,8
+df_ibov_mensal,279,4
+df_tickers,493,3
+df_acoes,1010921,11
+df_mensal,55976,10
+df_setor,2101,5
+df_subsetor,7568,5
+df_segmento,14299,5
+df_final_ibov,177,12
+df_final_acoes,31596,18
+df_final_setor,2101,13
+df_final_subsetor,7568,13
+df_final_segmento,14299,13

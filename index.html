@@ -307,7 +307,7 @@
         <div class="hero">
             <h1>Impacto de Variáveis Macroeconômicas no IBOV, Subsetores e Ações</h1>
             <p>Mapa de sensibilidade macroeconômica do mercado acionário brasileiro.</p>
-            <p>O projeto combina regressões, lags, rankings e clusterização para identificar como juros, inflação, câmbio e atividade econômica afetam diferentes perfis de ativos no Brasil.</p>
+            <p>O projeto combina regressões, lags, rankings e clusterização para mapear como juros, inflação, câmbio e atividade econômica se associam a diferentes perfis de ativos no Brasil.</p>
 
             <div class="nav">
                 <a href="#visao-geral">Visão Geral</a>
@@ -332,8 +332,8 @@
         </p>
         <p>
             A análise combina correlações, regressões com defasagens, rankings de sensibilidade e clusterização
-            para identificar quais fatores macro mais influenciam diferentes grupos de ativos e como essa influência
-            muda conforme o nível de agregação.
+            para mapear quais fatores macro aparecem mais associados a diferentes grupos de ativos e como esses
+            padrões mudam conforme o nível de agregação.
         </p>
 
         <div class="highlight-grid">
@@ -343,7 +343,7 @@
             </div>
             <div class="highlight-card">
                 <span class="label">Nível agregado</span>
-                <div class="value">IBOV mais sensível a câmbio e juros defasados</div>
+                <div class="value">IBOV com maior associação observada a câmbio e juros defasados</div>
             </div>
             <div class="highlight-card">
                 <span class="label">Subsetores</span>
@@ -359,12 +359,12 @@
     <div class="exec-side">
         <h2>Objetivo do estudo</h2>
         <p>
-            Construir um <b>mapa de sensibilidade macroeconômica</b> do mercado brasileiro, mostrando que
-            a leitura do índice agregado não é suficiente para entender o comportamento de setores e ações.
+            Construir um <b>mapa de sensibilidade macroeconômica</b> do mercado brasileiro, partindo da hipótese
+            de que a leitura do índice agregado pode ser insuficiente para entender o comportamento de setores e ações.
         </p>
         <p>
             O foco não é apenas medir relações estatísticas, mas transformar esses resultados em uma leitura
-            útil para <b>alocação, interpretação de cenário e análise de perfis de ativos</b>.
+            exploratória útil para <b>interpretação de cenário e análise de perfis de ativos</b>.
         </p>
     </div>
 </section>
@@ -374,19 +374,19 @@
     <div class="takeaways">
         <div class="takeaway-card">
             <h3>Câmbio segue central</h3>
-            <p>O dólar continua aparecendo como um dos fatores macro mais relevantes para explicar a dispersão dos ativos no mercado brasileiro.</p>
+            <p>O dólar continua aparecendo como uma das variáveis macro mais associadas à dispersão dos ativos na amostra analisada.</p>
         </div>
         <div class="takeaway-card">
             <h3>Juros importam com defasagem</h3>
-            <p>A Selic ganha força especialmente nas análises com lag, coerente com a transmissão gradual da política monetária para preços e lucros.</p>
+            <p>A Selic ganha força especialmente nas análises com lag, em um padrão compatível com uma transmissão mais gradual da política monetária.</p>
         </div>
         <div class="takeaway-card">
             <h3>Heterogeneidade é a regra</h3>
-            <p>Subsetores e ações respondem de forma muito diferente ao macro, e a clusterização evidencia que o mercado não reage de forma homogênea.</p>
+            <p>Subsetores e ações apresentam respostas distintas ao ambiente macro, e a clusterização reforça a heterogeneidade observada dentro da amostra.</p>
         </div>
         <div class="takeaway-card">
             <h3>Atividade não domina sozinha</h3>
-            <p>Após padronização, a atividade econômica deixou de aparecer como fator isolado dominante, sugerindo efeito mais difuso e combinado com outras variáveis.</p>
+            <p>Após padronização, a atividade econômica passou a aparecer de forma mais difusa e combinada com outras variáveis, em vez de dominar isoladamente os agrupamentos.</p>
         </div>
     </div>
 </section>
@@ -417,7 +417,7 @@
     </tr>
     <tr>
       <td>df_ibov_mensal</td>
-      <td>278,0000</td>
+      <td>279,0000</td>
       <td>4,0000</td>
     </tr>
     <tr>
@@ -117496,22 +117496,22 @@
     <h2>Conclusão</h2>
 
     <p>
-        Este projeto mostrou que a relação entre variáveis macroeconômicas e o mercado acionário brasileiro
-        é relevante, mas está longe de ser uniforme. Ao longo das análises, ficou claro que a leitura do
-        <b>IBOV</b> como índice agregado fornece apenas uma visão parcial do problema, enquanto a análise por
-        <b>subsetores</b> e <b>ações individuais</b> revela uma heterogeneidade muito mais rica.
+        Este projeto sugere que a relação entre variáveis macroeconômicas e o mercado acionário brasileiro
+        é relevante, mas está longe de ser uniforme. Ao longo das análises, a leitura do
+        <b>IBOV</b> como índice agregado se mostrou apenas uma visão parcial do problema, enquanto a análise por
+        <b>subsetores</b> e <b>ações individuais</b> revelou uma heterogeneidade mais rica.
     </p>
 
     <p>
-        No nível agregado, os resultados indicam que o <b>câmbio</b> se destaca como um dos principais drivers
-        do mercado, enquanto a <b>Selic</b>, sobretudo com defasagem, também exerce influência importante.
-        Isso é compatível com a ideia de que choques cambiais e mudanças de política monetária afetam o índice
-        de forma relativamente ampla, seja pelo canal de custos, valuation ou fluxo de capital.
+        No nível agregado, os resultados indicam que o <b>câmbio</b> aparece como uma das variáveis mais associadas
+        ao mercado, enquanto a <b>Selic</b>, sobretudo com defasagem, também ganha relevância.
+        Isso é compatível com a hipótese de que choques cambiais e mudanças de política monetária se refletem no índice
+        por diferentes canais, como custos, valuation e fluxo de capital.
     </p>
 
     <p>
-        Quando a análise avança para subsetores e ações, o ganho de informação é muito maior. A clusterização
-        mostrou que o mercado brasileiro pode ser segmentado em diferentes perfis de sensibilidade macroeconômica,
+        Quando a análise avança para subsetores e ações, o ganho de informação é maior. A clusterização
+        indicou que o mercado brasileiro pode ser organizado em diferentes perfis de sensibilidade macroeconômica,
         o que reforça a limitação de análises excessivamente agregadas. Em vez de um único comportamento do mercado,
         surgem grupos com exposições distintas a câmbio, juros, inflação e combinações desses fatores.
     </p>
@@ -117520,7 +117520,7 @@
         Um resultado importante das etapas mais recentes foi que, após a padronização das exposições macro,
         a <b>atividade econômica</b> deixou de aparecer como fator dominante isolado em muitos agrupamentos.
         Isso sugere que seu impacto está mais distribuído e combinado com outras variáveis, enquanto o câmbio
-        continua se mostrando um eixo particularmente forte de diferenciação entre ativos.
+        continuou aparecendo como um eixo particularmente forte de diferenciação entre ativos na amostra.
     </p>
 
     <p>
@@ -117532,16 +117532,16 @@
 
     <h3>Principais aprendizados</h3>
     <ul>
-        <li><b>Câmbio</b> é um dos fatores macro mais relevantes para explicar a dispersão dos ativos analisados.</li>
-        <li><b>Juros</b> ganham importância quando considerados com defasagem, reforçando o canal gradual de transmissão monetária.</li>
-        <li><b>Subsetores e ações</b> reagem de forma muito diferente ao ambiente macroeconômico.</li>
+        <li><b>Câmbio</b> aparece como uma das variáveis macro mais relevantes para a dispersão dos ativos analisados.</li>
+        <li><b>Juros</b> ganham importância quando considerados com defasagem, em linha com um canal mais gradual de transmissão monetária.</li>
+        <li><b>Subsetores e ações</b> apresentam respostas distintas ao ambiente macroeconômico.</li>
         <li><b>Atividade econômica</b> parece atuar de forma mais difusa, e não necessariamente como eixo isolado de segmentação.</li>
-        <li><b>Clusterização</b> foi essencial para transformar exposições macro em perfis interpretáveis de ativos.</li>
+        <li><b>Clusterização</b> foi útil para transformar exposições macro em perfis interpretáveis de ativos.</li>
     </ul>
 
     <h3>Conclusão estratégica</h3>
     <p>
-        O principal valor deste projeto está em mostrar que abordagens <b>macro-driven</b> ganham muito mais
+        O principal valor deste projeto está em sugerir que abordagens <b>macro-driven</b> podem ganhar mais
         utilidade quando aplicadas a grupos de ativos com perfis semelhantes de sensibilidade, em vez de depender
         apenas da leitura do índice agregado. Isso abre espaço para análises mais sofisticadas de alocação,
         construção de portfólios por cenário e identificação de ganhadores e perdedores em diferentes regimes macroeconômicos.
